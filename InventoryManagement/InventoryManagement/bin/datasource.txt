@@ -1,0 +1,1 @@
+[{"id":1,"name":"\"keyboard\"","description":"\"new version\"","quantity":4,"price":66.0},{"id":1,"name":"\"charger\"","description":"\"3\"","quantity":3,"price":3.0},{"id":1,"name":"\"test\"","description":"\"test\"","quantity":3,"price":3.0}]
